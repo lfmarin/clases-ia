@@ -1,5 +1,9 @@
-# clases-ia
-* libretas de estudio del curso *
+# Clases de Visión por computadora 
+
+_deste procesamiento de imagen hasta intro a Machine Learning_
+
+*libretas de estudio del curso*
+
 Este repositorio es para dar seguimiento al curso de TIA de la Universidad Veracruzana
 están abiertos al público para uso a conveniencia.
 
@@ -10,7 +14,7 @@ están abiertos al público para uso a conveniencia.
 - Bordes
 - Bordes2 y gradientes
 - TIA - Sonidos
--  Práctica Melanoma
+- Práctica Melanoma
 - Práctica Homografia
 - Clustering Básico
 - ANN.xls
