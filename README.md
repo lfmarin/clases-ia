@@ -1,6 +1,6 @@
 # Clases de Visión por computadora 
 
-_deste procesamiento de imagen hasta intro a Machine Learning_
+> desde procesamiento de imagen hasta intro a Machine Learning
 
 *libretas de estudio del curso*
 
